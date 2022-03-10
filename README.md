@@ -3,7 +3,7 @@ PROJET AJAX
 Peer-PROGRAMING :
 
 Francesco Feodor FF ,
-Samy Kannouche ,
+Samy Kannouch ,
 Larbi Ait Hamadouche ,
 Paolucci Loic ,
 Adrien Benaceur .
